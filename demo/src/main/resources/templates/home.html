@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" >
+<head>
+    <meta charset="UTF-8"-/>
+    <title>TechModule</title>
+</head>
+<body>
+<form th:action="@{/user}" th:method="post">
+
+    <input type="text" name="name" placeholder="Name"/>
+
+    <input type="email" name="email" placeholder="Email"/>
+
+    <input type="password" name="password" placeholder="Password"/>
+    <input type="submit"/>
+
+
+</form>
+<ul th:each="user: ${users}">
+    <li th:text="${user.email}"></li>
+</ul>
+<!--<h3 th:text="'Name: '+${name}"></h3>
+<h3 th:text="'Email '+${email}"></h3>
+<h3 th:text="'Password '+${password}"></h3>-->
+
+</body>
+</html>
