@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4af0491-39b7-4bdf-aaa1-b038a2d847f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W9zd2xkDokY7lfp58gFu3R3pCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CalculatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="calculator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.softuni.CalculatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4af0491-39b7-4bdf-aaa1-b038a2d847f1" name="Default Changelist" comment="" />
+      <created>1578576682873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578576682873</updated>
+      <workItem from="1578576694993" duration="3294000" />
+      <workItem from="1578671866859" duration="11147000" />
+      <workItem from="1578950651011" duration="1775000" />
+      <workItem from="1579025091037" duration="809000" />
+      <workItem from="1579082122706" duration="706000" />
+      <workItem from="1579098501469" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1578601668558">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="492" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.724@0.0.1366.724" timestamp="1578601668558" />
+    <state width="662" height="175" key="GridCell.Tab.0.bottom" timestamp="1578952316785">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1578952316785" />
+    <state width="662" height="175" key="GridCell.Tab.0.center" timestamp="1578952316785">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1578952316785" />
+    <state width="662" height="175" key="GridCell.Tab.0.left" timestamp="1578952316785">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1578952316785" />
+    <state width="662" height="175" key="GridCell.Tab.0.right" timestamp="1578952316785">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1578952316785" />
+    <state width="662" height="175" key="GridCell.Tab.1.bottom" timestamp="1578952316786">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.1.bottom/0.0.1366.724@0.0.1366.724" timestamp="1578952316786" />
+    <state width="662" height="175" key="GridCell.Tab.1.center" timestamp="1578952316785">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.1.center/0.0.1366.724@0.0.1366.724" timestamp="1578952316785" />
+    <state width="662" height="175" key="GridCell.Tab.1.left" timestamp="1578952316785">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.1.left/0.0.1366.724@0.0.1366.724" timestamp="1578952316785" />
+    <state width="662" height="175" key="GridCell.Tab.1.right" timestamp="1578952316786">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="662" height="175" key="GridCell.Tab.1.right/0.0.1366.724@0.0.1366.724" timestamp="1578952316786" />
+    <state width="1324" height="218" key="GridCell.Tab.2.bottom" timestamp="1578755267840">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="218" key="GridCell.Tab.2.bottom/0.0.1366.724@0.0.1366.724" timestamp="1578755267840" />
+    <state width="1324" height="218" key="GridCell.Tab.2.center" timestamp="1578755267840">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="218" key="GridCell.Tab.2.center/0.0.1366.724@0.0.1366.724" timestamp="1578755267840" />
+    <state width="1324" height="218" key="GridCell.Tab.2.left" timestamp="1578755267840">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="218" key="GridCell.Tab.2.left/0.0.1366.724@0.0.1366.724" timestamp="1578755267840" />
+    <state width="1324" height="218" key="GridCell.Tab.2.right" timestamp="1578755267840">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state width="1324" height="218" key="GridCell.Tab.2.right/0.0.1366.724@0.0.1366.724" timestamp="1578755267840" />
+    <state x="394" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1579098631436">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="394" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.724@0.0.1366.724" timestamp="1579098631436" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/softuni/entity/Calculator.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
