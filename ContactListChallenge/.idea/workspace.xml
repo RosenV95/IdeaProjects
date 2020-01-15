@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
@@ -24,6 +27,7 @@
     <option name="height" value="684" />
   </component>
   <component name="ProjectId" id="1WOeyLKo0J02xCFQhBIPk9c93RE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -73,11 +77,18 @@
       <option name="presentableId" value="Default" />
       <updated>1572016959516</updated>
       <workItem from="1579025326345" duration="791000" />
+      <workItem from="1579081124607" duration="86000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1579081124716">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="394" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.724@0.0.1366.724" timestamp="1579081124716" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
