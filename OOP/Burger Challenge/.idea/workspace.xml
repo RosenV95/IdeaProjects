@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43544152-edf1-44f5-a6e7-e36720df3cfa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContactListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContactListChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/EqualSumExcercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumExcercise/src/com/valkov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/Excercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/out/production/Excercise1/com/valkov/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise1/src/com/valkov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/Excercise2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/out/production/Excercise2/com/valkov/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise2/src/com/valkov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/Excercise4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/out/production/Excercise4/com/valkov/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise4/src/com/valkov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/Softuni1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/out/production/Softuni1/com/valkov/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Softuni1/src/com/valkov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/SoftuniExam.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/Club.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/Familitripz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/FootballTourney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/PcGameShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/TravelAgency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/com/valkov/FamilyTrip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/com/valkov/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/out/production/SoftuniExam/com/valkov/NameGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/Club.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/Familitripz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/FootballTourney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/PcGameShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/TravelAgency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/com/valkov/FamilyTrip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/com/valkov/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftuniExam/src/com/valkov/NameGame.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WQUEEx7fFmO1GawGSwrWys0FfY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.valkov.Main" />
+      <module name="Burger Challenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43544152-edf1-44f5-a6e7-e36720df3cfa" name="Default Changelist" comment="" />
+      <created>1568144328533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568144328533</updated>
+      <workItem from="1579081203305" duration="1436000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test Commit">
+      <created>1579081473679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579081473680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1579081471370">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.724@0.0.1366.724" timestamp="1579081471370" />
+  </component>
+</project>
