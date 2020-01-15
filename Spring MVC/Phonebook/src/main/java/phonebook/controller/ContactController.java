@@ -31,4 +31,5 @@ public class ContactController {
         this.contacts.add(contact);
         return "redirect:/";
     }
+    //THIS IS A TEST COMMIT
 }
