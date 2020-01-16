@@ -42,4 +42,6 @@ public class HomeController {
 		model.addAttribute("view","views/calculatorForm");
 		return "base-layout";
 	}
+	//This is a test GitHub Commit
+
 }
