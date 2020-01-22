@@ -10,7 +10,8 @@ public class Calculator {
         this.rightOperand = rightOperand;
         this.operator = operator;
     }
-    public Calculator(){
+
+    public Calculator() {
 
     }
 
@@ -25,29 +26,30 @@ public class Calculator {
     public String getOperator() {
         return operator;
     }
-    public double calculateResult(){
-        double result=0;
-        switch(this.operator){
-            case"+":
-                result=this.getLeftOperand()+this.getRightOperand();
+
+    public double calculateResult() {
+        double result = 0;
+        switch (this.operator) {
+            case "+":
+                result = this.getLeftOperand() + this.getRightOperand();
                 break;
-            case"-":
-                result=this.getLeftOperand()-this.getRightOperand();
+            case "-":
+                result = this.getLeftOperand() - this.getRightOperand();
                 break;
-            case"*":
-                result=this.getLeftOperand()*this.getRightOperand();
+            case "*":
+                result = this.getLeftOperand() * this.getRightOperand();
                 break;
-            case"/":
-                result=this.getLeftOperand()/this.getRightOperand();
+            case "/":
+                result = this.getLeftOperand() / this.getRightOperand();
                 break;
             case "^":
-                result=Math.pow(this.getLeftOperand(),this.getRightOperand());
+                result = Math.pow(this.getLeftOperand(), this.getRightOperand());
                 break;
             case "√":
-             result=Math.sqrt(this.getLeftOperand());
-             break;
+                result = Math.sqrt(this.getLeftOperand());
+                break;
             case "% of":
-                result=(getLeftOperand()/100)*getRightOperand();
+                result = (getLeftOperand() / 100) * getRightOperand();
                 break;
 
         }
