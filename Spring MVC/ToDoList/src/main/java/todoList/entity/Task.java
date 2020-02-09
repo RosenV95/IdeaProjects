@@ -34,7 +34,7 @@ public class Task {
     public void setTitle(String title) {
         this.title = title;
     }
-@Column(columnDefinition = "text",nullable = false)
+@Column(columnDefinition = "task", nullable = false)
     public String getComments() {
         return comments;
     }
